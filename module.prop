@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
+id=DaydreamVR
+name=Daydream VR Fix
+version=v1.0
 versionCode=6
-author=Zackptg5
+author=flip
 description=
 support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
